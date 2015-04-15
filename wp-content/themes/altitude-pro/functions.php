@@ -236,3 +236,8 @@ genesis_register_sidebar( array(
 	'name'        => __( 'Front Page 7', 'altitude' ),
 	'description' => __( 'This is the front page 7 section.', 'altitude' ),
 ) );
+genesis_register_sidebar( array(
+	'id'          => 'front-page-8',
+	'name'        => __( 'Front Page 8', 'altitude' ),
+	'description' => __( 'This is the front page 8 section.', 'altitude' ),
+) );
